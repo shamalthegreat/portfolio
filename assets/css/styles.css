@@ -115,7 +115,9 @@ img {
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
-
+.about_ls{
+  font-size: 14px;
+}
 /*===== LAYOUT =====*/
 .bd-grid {
   max-width: 1024px;
